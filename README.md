@@ -8,7 +8,7 @@ Sur ce GitHub, je partage mes projets personnels et universitaires, allant du d�
 Ce profil est pour moi un espace d’apprentissage, d’expérimentation et de partage.
 <br>
  N'hésitez pas à me contacter pour discuter tech, collaborations ou idées innovantes. <br>
-📫 fatimatoudaka@gmail.com 
+📫 fatimatoudaka@gmail.com <br>
 🎯 En route vers l’intelligence artificielle et au-delà !
 <br>
 <hr>
