@@ -7,7 +7,7 @@ Passionnée par les technologies émergentes, je m'intéresse tout particulière
 Sur ce GitHub, je partage mes projets personnels et universitaires, allant du développement d’applications à l’exploration de concepts liés à l’IA.<br>
 Ce profil est pour moi un espace d’apprentissage, d’expérimentation et de partage.
 <br>
- N'hésitez pas à me contacter pour discuter tech, collaborations ou idées innovantes.
+ N'hésitez pas à me contacter pour discuter tech, collaborations ou idées innovantes. <br>
 📫 fatimatoudaka@gmail.com
 <br>
 <hr>
