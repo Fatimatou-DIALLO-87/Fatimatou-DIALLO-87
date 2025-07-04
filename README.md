@@ -9,7 +9,7 @@ Ce profil est pour moi un espace d’apprentissage, d’expérimentation et de p
 <br>
  N'hésitez pas à me contacter pour discuter tech, collaborations ou idées innovantes. <br>
 📫 fatimatoudaka@gmail.com 
-
+🎯 En route vers l’intelligence artificielle et au-delà !
 <br>
 <hr>
 <h1>🧠 Compétences:</h1> <br>
@@ -17,4 +17,4 @@ Ce profil est pour moi un espace d’apprentissage, d’expérimentation et de p
 🧰 Outils & Frameworks : JavaFX, Tkinter, Apache Derby DB
 <hr>
 🚀 Toujours prête à apprendre, créer et partager...<br>
-🎯 En route vers l’intelligence artificielle et au-delà !
+
