@@ -1,5 +1,8 @@
  ## Salut 👋, moi c'est Fatimatou 
-# ![Fatimatou](https://github.com/Fatimatou-DIALLO-87/Fatimatou-DIALLO-87/blob/main/baniere.jpg)
+<p >
+  <img src="https://github.com/Fatimatou-DIALLO-87/Fatimatou-DIALLO-87/blob/main/baniere.jpg" width="500">
+</p>
+
 
 
 🎓 Je suis étudiante en 3ᵉ année de licence d’informatique à la Faculté des Sciences et Techniques de l’Université de Limoges.<br>
